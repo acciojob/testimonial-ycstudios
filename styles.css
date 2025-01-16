@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f5f5f5;
+}
+.testmonial{
+	margin:30px;
+	border:1px solid lightgray;
+	background-color:white;
+	height:80px;
+}
+.name{
+	text-align:right;
+	font-style:italic;
+	
+}
+.lines{
+	padding-left:30px;
+}
