@@ -1,13 +1,10 @@
 body {
     background-color: #f5f5f5;
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
 }
 
 .main-container {
     max-width: 800px;
-    margin: 40px auto;
+    margin: 40px;
     padding: 20px;
     background-color: #f5f5f5;
 }
@@ -22,7 +19,6 @@ body {
 .lines {
     margin: 0;
     padding-left: 10px;
-    color: #333;
     font-size: 16px;
     line-height: 1.5;
 }
@@ -30,6 +26,5 @@ body {
 .name {
     text-align: right;
     font-style: italic;
-    color: #555;
     margin-top: 10px;
 }
